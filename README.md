@@ -11,4 +11,4 @@ gestionar y colaborar en proyectos de código fuente utilizando el sistema de co
 
 ¿Qué espero aprender al utilizar repositorios?
 Yo espero aprender conceptos esenciales, así como a crear espacios de trabajo (locales y remotos) 
-donde se almacena todo el historial y los archivos de mis proyectos.
+donde se almacena todo el historial y los archivos de mis proyectos
